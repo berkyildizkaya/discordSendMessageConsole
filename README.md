@@ -1,4 +1,4 @@
-# discordSendMessageConsole
+# discordSendMessageFromConsole
 Find Channel ID
 
 
