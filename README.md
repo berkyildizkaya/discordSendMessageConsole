@@ -1,5 +1,5 @@
 # discordSendMessageFromConsole
-## Finding Channel ID
+## How to find Channel ID
 
 1. Navigate to your Discord server.
 2. Right-click on the desired channel.
@@ -10,7 +10,7 @@
 
 
 
-## Finding DM ID
+## How to find Direct Message ID
 
 1. Open the Discord client.
 2. Navigate to the desired user's direct message (DM) window.
@@ -20,7 +20,7 @@
 
 ![resim](https://user-images.githubusercontent.com/48087914/221948830-29ebfc11-a1c4-4459-8141-0da960b5d2f7.png)
 
-## Finding Bot Token
+## How to find Token 
 
 1. Open the Developer Tools in your browser (usually by pressing F12).
 2. Go to the "Network" tab.
